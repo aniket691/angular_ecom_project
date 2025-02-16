@@ -27,8 +27,3 @@ A simple **E-commerce web application** where users can browse products, add to 
 
 ---
 
-## 📦 Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/ecommerce-app.git
-   cd ecommerce-app
