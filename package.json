@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce-angularjs",
+  "version": "1.0.0",
+  "description": "A simple eCommerce app using AngularJS and TypeScript",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@types/angular-route": "^1.7.6",
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.3",
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-typescript": "^7.22.9",
+    "@types/angular": "^1.8.9",
+    "babel-loader": "^9.1.2",
+    "copy-webpack-plugin": "^12.0.2",
+    "css-loader": "^6.11.0",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^3.3.4",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.7.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.2"
+  }
+}
