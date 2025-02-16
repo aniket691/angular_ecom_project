@@ -22,11 +22,8 @@ A simple **E-commerce web application** where users can browse products, add to 
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend**: React / Angular / Vue  
-- **Backend**: Node.js (Express) / .NET Core / Spring Boot  
-- **Database**: MySQL / MongoDB / PostgreSQL  
-- **Authentication**: JWT / OAuth  
-- **Payment Gateway**: Stripe / PayPal  
+- **Frontend**: Angular JS 
+- **Backend**: Node.js 
 
 ---
 
